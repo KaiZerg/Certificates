@@ -1,5 +1,5 @@
 # Certificates
-I have created repository to publish my Certificates and monitor my study progress
+I have created repository to publish my Certificates and monitor my study progress in Data Science 
 
 ## List of certificates:
 1. Introduction to Data Science in Python
